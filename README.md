@@ -40,9 +40,7 @@ Este projeto consiste em um jogo desenvolvido na plataforma Construct 3, com int
 
 A aplicação também pode ser acessada por meio do seguinte link:
 
-[https://seu-jogo.netlify.app](https://seu-jogo.netlify.app)
-
-*(substitua pelo link gerado após publicar)*
+[https://seu-jogo.netlify.app](https://nome-do-seu-jogo.netlify.app)
 
 ---
 
@@ -50,13 +48,13 @@ A aplicação também pode ser acessada por meio do seguinte link:
 
 - `jogo_construct_firebase.c3p` – Projeto do jogo
 - `README.md` – Documento explicativo
-- `imagens/` – Pasta contendo os prints da aplicação e do banco de dados
+- `imagens/` – Prints da aplicação e do banco de dados
 
 ---
 
 ## Desenvolvedor
 
-**Nome:** [Seu Nome Completo]  
-**Curso:** [Nome do curso ou disciplina]  
-**Instituição:** [Nome da escola ou universidade]  
-**Data de entrega:** [Data]
+**Nome:** [Manuela Rodrigues Freitas]  
+**Curso:** [Sistemas de Informação]  
+**Instituição:** [Uni-FACEF]  
+**Data de entrega:** [30/04/2025]
