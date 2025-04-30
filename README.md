@@ -39,7 +39,7 @@ Este projeto consiste em um jogo desenvolvido na plataforma Construct 3, com int
 
 A aplicação também pode ser acessada por meio do seguinte link:
 
-[https://seu-jogo.netlify.app](https://nome-do-seu-jogo.netlify.app)
+[https://seu-jogo.netlify.app]( https://jogo-facef-mago-yw98.vercel.app)
 
 ---
 
