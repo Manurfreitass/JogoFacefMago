@@ -16,13 +16,14 @@ Este projeto consiste em um jogo desenvolvido na plataforma Construct 3, com int
 ## Prints da aplicação e banco de dados
 
 ### Tela do jogo em execução:
+![Tela do jogo](jogo.png)
 ![Tela do jogo](telajogo.png)
 
 ### Tela de envio de nome e pontuação:
-![Tela de envio](imagens/score.png)
+![Tela de envio](score.png)
 
 ### Exibição dos dados no Firebase:
-![Tela do Firebase](imagens/firebase.png)
+![Tela do Firebase](firebase.png)
 
 ---
 
