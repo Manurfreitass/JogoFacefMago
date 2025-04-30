@@ -30,7 +30,7 @@ Este projeto consiste em um jogo desenvolvido na plataforma Construct 3, com int
 ## Como abrir o projeto
 
 1. Acesse [https://editor.construct.net](https://editor.construct.net)
-2. Faça upload do arquivo `.c3p`
+2. Faça upload do arquivo `jogoo..c3p`
 3. Execute o projeto clicando em "Play"
 4. Para funcionamento completo, certifique-se de utilizar o seu próprio endpoint do Firebase Realtime Database
 
